@@ -1,0 +1,11 @@
+# local package
+PyYAML>=5.3.1
+sentence-transformers>=0.3.3
+fastapi>=0.63.0
+uvicorn>=0.13.3
+dacite>=1.6.0
+azure-storage-blob>=1.4.0
+beautifulsoup4>=4.9.1
+gunicorn>=20.0.4
+uvloop>=0.14.0
+httptools>=0.1.1

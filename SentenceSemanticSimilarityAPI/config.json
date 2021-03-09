@@ -1,0 +1,15 @@
+{
+    "gpu_available": false,
+    "models": [
+        {
+            "queue": "1",
+            "name": "distiluse-base-multilingual-cased-v2",
+            "location": "models/distiluse-base-multilingual-cased-v2/model",
+            "framework": "sentence_transformers"
+        }
+    ],
+    "blob": {
+        "container": "nlpresources",
+        "connection_string": ""
+    }
+}
